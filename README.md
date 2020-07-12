@@ -5,5 +5,5 @@ this small project is a web page consists from four text sections with navigatio
 
 ## functionality.
 1. clicking on any title in navigation bar will scrolling smoothly to postion of section of title in page.
-2. when scrolling , the title in navigation bar of current section in page will change it color.
+2. when scrolling , the title in navigation bar of current section in page will change its color.
 
